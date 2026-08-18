@@ -37,13 +37,13 @@ B.Tech CSE Student • AI/ML Enthusiast • Full-Stack Developer
 ### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,flask,django,tailwind" />
+  <img src="https://skillicons.dev/icons?i=flask,django,tailwind" />
 </p>
 
 ### Databases & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 ### AI / ML
