@@ -1,41 +1,180 @@
 <h1 align="center">Hi 👋, I'm Ritesh Kr. Barnwal</h1>
-<h3 align="center">A passionate Student who wants to learn and Built something crazy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh-barnwal&label=Profile%20views&color=0e75b6&style=flat" alt="ritesh-barnwal" /> </p>
+<h3 align="center">
+B.Tech CSE Student • AI/ML Enthusiast • Full-Stack Developer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh-barnwal" alt="ritesh-barnwal" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_garib_299" target="blank"><img src="https://img.shields.io/twitter/follow/_garib_299?logo=twitter&style=for-the-badge" alt="_garib_299" /></a> </p>
-
-- 🔭 I’m currently working on [Chakras Detectio](sbu-disese-detect-using-chakras.vercel.app)
-
-- 🌱 I’m currently learning **Deep Learning and Advance AI**
-
-- 👯 I’m looking to collaborate on [AI-COOK-BOOK](ritesh-barnwal.github.io/AI-COOK-BOOK/)
-
-- 🤝 I’m looking for help with [AI-COOK-BOOK](ritesh-barnwal.github.io/AI-COOK-BOOK/)
-
-- 👨‍💻 All of my projects are available at [ritesh-barnwal.github.io/PORTFOLIO/](ritesh-barnwal.github.io/PORTFOLIO/)
-
-- 💬 Ask me about **Full stack Dev**
-
-- 📫 How to reach me **riteshbarnwal120@gmail.com**
-
-- ⚡ Fun fact **I am a Slow Learner 😭**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_garib_299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_garib_299" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ritesh-kumar-barnwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh-kumar-barnwal" height="30" width="40" /></a>
-<a href="https://instagram.com/__riteishhh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__riteishhh__" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/kebusTSvHC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kebusTSvHC" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Ritesh-Barnwal">
+    <img src="https://komarev.com/ghpvc/?username=Ritesh-Barnwal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Ritesh-Barnwal?tab=followers">
+    <img src="https://img.shields.io/github/followers/Ritesh-Barnwal?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritesh-barnwal&show_icons=true&locale=en&layout=compact" alt="ritesh-barnwal" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh-barnwal&show_icons=true&locale=en" alt="ritesh-barnwal" /></p>
+* 🎓 B.Tech CSE student at **Sarala Birla University**
+* 🤖 Currently exploring **Artificial Intelligence, Machine Learning & Deep Learning**
+* 💻 Interested in **Full-Stack Development**
+* 🌱 Learning by building projects and experimenting with new technologies
+* 🚀 I enjoy turning ideas into real, usable applications
+* 📚 Always working on improving my problem-solving and development skills
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritesh-barnwal&" alt="ritesh-barnwal" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flask,django,tailwind" />
+</p>
+
+### Databases & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
+</p>
+
+### AI / ML
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Ritesh-Barnwal&show_icons=true&theme=github_dark&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ritesh-Barnwal&layout=compact&theme=github_dark&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Ritesh-Barnwal&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ritesh-Barnwal&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Ritesh-Barnwal&theme=flat&no-frame=true&no-bg=true&margin-w=10"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Ritesh-Barnwal/AI-COOK-BOOK">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Ritesh-Barnwal&repo=AI-COOK-BOOK&theme=github_dark&hide_border=true"
+      alt="AI Cook Book"
+    />
+  </a>
+
+  <a href="https://github.com/Ritesh-Barnwal/SBU-Disese-Detect-using-Chakras">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Ritesh-Barnwal&repo=SBU-Disese-Detect-using-Chakras&theme=github_dark&hide_border=true"
+      alt="Disease Detection"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ritesh-Barnwal/PORTFOLIO">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Ritesh-Barnwal&repo=PORTFOLIO&theme=github_dark&hide_border=true"
+      alt="Portfolio"
+    />
+  </a>
+
+  <a href="https://github.com/Ritesh-Barnwal/Chat-Bot">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Ritesh-Barnwal&repo=Chat-Bot&theme=github_dark&hide_border=true"
+      alt="Chat Bot"
+    />
+  </a>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ritesh-kumar-barnwal">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/__riteishhh__">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram" />
+  </a>
+  <a href="mailto:riteshbarnwal120@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email" />
+  </a>
+  <a href="https://github.com/Ritesh-Barnwal">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+# 📌 More About Me
+
+<p align="center">
+  <a href="https://ritesh-barnwal.github.io/PORTFOLIO/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0e75b6?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/ritesh-kumar-barnwal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:riteshbarnwal120@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>💡 "Build. Break. Learn. Repeat."</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
