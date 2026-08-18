@@ -49,7 +49,7 @@ B.Tech CSE Student • AI/ML Enthusiast • Full-Stack Developer
 ### AI / ML
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
