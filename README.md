@@ -99,7 +99,6 @@ B.Tech CSE Student • AI/ML Enthusiast • Full-Stack Developer
 
 # 🚀 Featured Projects
 
-# 🚀 Featured Projects
 
 <p align="center">
   <a href="https://github.com/Ritesh-Barnwal/AI-COOK-BOOK">
