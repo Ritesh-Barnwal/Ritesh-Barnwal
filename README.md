@@ -99,6 +99,8 @@ B.Tech CSE Student • AI/ML Enthusiast • Full-Stack Developer
 
 # 🚀 Featured Projects
 
+# 🚀 Featured Projects
+
 <p align="center">
   <a href="https://github.com/Ritesh-Barnwal/AI-COOK-BOOK">
     <img
@@ -127,6 +129,15 @@ B.Tech CSE Student • AI/ML Enthusiast • Full-Stack Developer
     <img
       src="https://github-stats-extended.vercel.app/api/pin/?username=Ritesh-Barnwal&repo=Chat-Bot&theme=github_dark&hide_border=true"
       alt="Chat Bot"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ritesh-Barnwal/Web-Scraper">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=Ritesh-Barnwal&repo=Web-Scraper&theme=github_dark&hide_border=true"
+      alt="Web Scraper"
     />
   </a>
 </p>
